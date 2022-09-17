@@ -192,5 +192,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC_SC?p
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://ws.shoutcast.com/images/contacts/7/7800/78005701-76af-45c0-a535-ae860015bd4b/radios/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22.png" group-title="Rock", Rock en Español
 http://stream.zeno.fm/cdey4pbw2ehvv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerherook_640-x-320_1afbce35.gif" group-title="Pop", Radio Disney
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerherook_640-x-320_1afbce35.gif" group-title="Pop", Radio Disney 92.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFM.mp3?dist=redirect_m
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://co.radio.net/images/broadcasts/77/47/126545/1/c300.png" group-title="Pop", Rock and Pop
+http://stream.zeno.fm/e37m779v2ehvv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://beatdigital.mx/wp-content/uploads/2021/09/beat-digital-logo.png" group-title="Pop", Beat 100.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC_SC
