@@ -200,3 +200,12 @@ http://stream.zeno.fm/e37m779v2ehvv
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://beatdigital.mx/wp-content/uploads/2021/09/beat-digital-logo.png" group-title="Pop", Beat 100.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://cdn.nrm.com.mx/cdn/stereocien/2017/generic/logo-stereo-footer.png" group-title="Pop", Stereo Cien 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.imer.mx/reactor/wp-content/uploads/sites/40/03-Reactor-para-fondo-negro.png" group-title="Pop", Reactor 105.7 FM
+https://s2.mexside.net/8002/stream
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.imer.mx/xeb/wp-content/uploads/sites/18/logo_xeb_2020_1240-300x113.png" group-title="Tropical", XEB La B Grande 1220 AM
+https://s2.mexside.net/8024/stream
