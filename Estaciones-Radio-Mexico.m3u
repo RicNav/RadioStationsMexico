@@ -40,7 +40,7 @@ https://25083.live.streamtheworld.com/XHPOPFMAAC
 https://18103.live.streamtheworld.com/XELAMAAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Noticias", MVS Noticias 102.5 FM
-https://24463.live.streamtheworld.com/XHMVSFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Noticias", 88.9 Noticias FM
 https://25063.live.streamtheworld.com/XHMFMAAC
@@ -162,8 +162,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/W_Radio_900_96.9_logo.jpg/220px-W_Radio_900_96.9_logo.jpg", group-title="Noticias", W Radio 900 AM y 96.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIO_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://storage.googleapis.com/mvsnoticias/2020/02/0cf1d3a5-mvs.jpg" group-title="Noticias", MVS Noticias
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNuBWY4zLh.jpg" group-title="Romántica", Joya 93.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC?dist=tg&pname=TDSdk
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://wrmx00.epimg.net/especiales/foro-w/aerocorona/images/logo-w.png" group-title="Deportes", W Deportes 730 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC?csegid=10000
@@ -180,5 +180,17 @@ https://s2.yesstreaming.net:9085/stream
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="http://cdn-profiles.tunein.com/s1171/images/logod.png?t=637908714790000000" group-title="Pop", Universal 88.1 FM
 https://ice1.securenetsystems.net/DEMOSTN?playSessionID=06D82902-D358-1C60-3E3BD1FCDB36E96A
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.buscadordepodcasts.com/wp-content/uploads/2021/05/el-heraldo-radio-directo.png" group-title="Noticias", El heraldo de Mexico
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.buscadordepodcasts.com/wp-content/uploads/2021/05/el-heraldo-radio-directo.png" group-title="Noticias", El Heraldo de Mexico
 https://n01.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABg0la2gEAsACgxFoEdou1ZQ
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.radiouniversal.mx/assets/images/custom/locutores/stereorey/discotheque_stereorey.jpg" group-title="Noticias", Stereorey 100.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREY_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.buscadordepodcasts.com/wp-content/uploads/2021/05/sabrosita-directo.png" group-title="Tropical", Sabrosita 590 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC_SC?pname=TDSdk
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://ws.shoutcast.com/images/contacts/7/7800/78005701-76af-45c0-a535-ae860015bd4b/radios/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22.png" group-title="Rock", Rock en Español
+http://stream.zeno.fm/cdey4pbw2ehvv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerherook_640-x-320_1afbce35.gif" group-title="Pop", Radio Disney
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFM.mp3?dist=redirect_m
