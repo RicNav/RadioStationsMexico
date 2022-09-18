@@ -260,3 +260,22 @@ https://stream.zeno.fm/nttqukp84k0uv
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2pdbcunvpqwx.png" group-title="Romántica 1380 AM", Romántica 1380 AM
 http://s1.audiorama.mx:6582/;stream
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qFBKLmtCRk.png" group-title="Dance", Ibero 90.9 FM
+https://noasrv.caster.fm:10182/live
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k7mahdgu6cun.webp" group-title="Pop", Panda Pop Radio
+http://65.21.202.84:8182/stream
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://maparadio.com.mx/wp-content/uploads/2018/02/1470-Logo.png" group-title="Rock&Roll", Radio Fórmula 1470 AM
+https://formula-1470.centrocibernetico.com/formula1470
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yjV9GpEEcw.png" group-title="Pop", Oye 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?pname=TDSdk
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tvdAMVg9DD.png" group-title="Electronica", Radio Techno México
+http://stream.zeno.fm/5e1z6cew2ehvv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rff9qzc8huzc.png" group-title="Tropical", JM Radio Salsa Cumbiando
+https://stream.zeno.fm/vbps31umzk0uv
+
