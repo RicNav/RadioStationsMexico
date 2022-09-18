@@ -279,3 +279,14 @@ http://stream.zeno.fm/5e1z6cew2ehvv
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rff9qzc8huzc.png" group-title="Tropical", JM Radio Salsa Cumbiando
 https://stream.zeno.fm/vbps31umzk0uv
 
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2avgnqygkgdv.png" group-title="Grupera", Pura Banda MX
+https://stream.zeno.fm/qkrtarde8yzuv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zaqut5v7srss.png" group-title="Dance", Solo Clasicos
+https://server01.heplayer.com:7046/;
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/G4Q37ghtvx.png" group-title="Dance", Radio Rock and Pop México
+http://stream.zeno.fm/4d34u6dz6mruv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jwtuwjggfvfy.png" group-title="Grupera", La Radio del Ciriboy
+http://192.99.170.8:5296/;
