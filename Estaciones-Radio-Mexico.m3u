@@ -102,7 +102,7 @@ https://23023.live.streamtheworld.com/ACIR29_S01AAC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/6231337bbe123875849470d7?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Amor de Dos Duetos en español
 https://14083.live.streamtheworld.com/ACIR02_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/62313359be123875849470d3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Español", Amor de mis Amores Éxitos de 3 décadas
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/62313359be123875849470d3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Amor de mis Amores Éxitos de 3 décadas
 https://27143.live.streamtheworld.com/ACIR21_S01AAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9d2606795218894aa3fc2b?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Jazz: Sax, piano, guitarra y voz", Smooth Jazz
@@ -114,7 +114,7 @@ https://18733.live.streamtheworld.com/ACIR49_S01AAC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5eda9c7977ca1c930228b?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", City Chill Soft
 https://27143.live.streamtheworld.com/ACIR25_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Instrumental: Piano", Piano Landscapes
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Instrumental", Piano Landscapes
 https://27143.live.streamtheworld.com/ACIR23_S01AAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5c4b5234cdd5ce1b1fc60b57?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Reguetón", Reggaeton Top Latino
@@ -252,5 +252,11 @@ http://stream.zeno.fm/6q4qw4aw2ehvv
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vtud75E7kJ.jpg" group-title="Clasica", Opus 94.5 FM
 https://s2.mexside.net/8016/stream
 
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wtbuhSeULL.jpg" group-title="Rock", Rock Stock Bar
+http://51.79.50.36:8000/stream
 
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gwqkarc3xkwq.png" group-title="Instrumental", JM Radio Instrumental Relax
+https://stream.zeno.fm/nttqukp84k0uv
 
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2pdbcunvpqwx.png" group-title="Romántica 1380 AM", Romántica 1380 AM
+http://s1.audiorama.mx:6582/;stream
