@@ -243,6 +243,14 @@ https://stream.zeno.fm/zw8bzfsgqm0uv
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pjvcp7kfea5m.jpeg" group-title="Grupera", Banda Grupera
 https://stream9.mexiserver.com:7090/stream
 
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/W9xd75uz8T.png" group-title="Clasica", Radio UNAM 96.1 FM
+https://tv.radiohosting.online:9484/stream
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qc6S8Py9yb.png" group-title="Electonica", Radio Electro
+http://stream.zeno.fm/6q4qw4aw2ehvv
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vtud75E7kJ.jpg" group-title="Clasica", Opus 94.5 FM
+https://s2.mexside.net/8016/stream
 
 
 
