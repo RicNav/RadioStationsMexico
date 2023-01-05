@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2017/01/WWW-Romantica-brand-170x170.jpg" group-title="Romántica", Romantica 102.1 FM
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2017/01/WWW-Romantica-brand-170x170.jpg" group-title="Baladas, Romántica y Pop Latino", Romantica 102.1 FM
 http://sigmaradio.stream:9000/index.mp3
 
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2018/07/Banner-Los40-VOL-estacion.jpg" group-title="Inglés", Los 40 – 100.5 FM Pop Español y Reggaeton
@@ -15,10 +15,10 @@ https://26273.live.streamtheworld.com/XHEM_FM.mp3
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6064bc678ad97703fa6ab7d4?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", EXA 104.9 FM Exitos
 https://26373.live.streamtheworld.com/XHEXA_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Amor 95.3 FM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Amor 95.3 FM
 https://18243.live.streamtheworld.com/XHSHFMAAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Pop Latino", 106.5 FM 80s 90s y Mas
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Baladas, Romántica y Pop Latino", 106.5 FM 80s 90s y Mas
 https://14523.live.streamtheworld.com:443/XHDFMFMAAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43a62c4c516799194024d?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Tropical" La Mejor 97.7 FM Cumbia, Mexicana
@@ -48,7 +48,7 @@ https://25063.live.streamtheworld.com/XHMFMAAC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2af8558a19fc0df00598c7?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", Imagen Radio 90.5 FM Pop
 https://26363.live.streamtheworld.com/XEDAFM_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce72d5ee0cd6a6abec51390?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Radio Felicidad 1180 AM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce72d5ee0cd6a6abec51390?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Radio Felicidad 1180 AM
 https://14613.live.streamtheworld.com/XEFRAMAAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t39.30808-6/310958451_469278925236392_3842059014121785436_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=l0lHDQ0EjZIAX_ViLae&_nc_ht=scontent.fmex7-1.fna&oh=00_AfAFKQSWhH9qCED0G6Up7WoFU0eIyqepky8orleGs4E_3A&oe=63BA66F2" group-title="Inglés", Alfa Radio 91.3 FM Pop
@@ -72,10 +72,10 @@ https://23023.live.streamtheworld.com/ACIR13_S01AAC
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ec96c7977ca1c9302271?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", Mix en Vivo Rock y Pop
 https://18683.live.streamtheworld.com/ACIR09_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58393?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas", Las Imprescindibles en Felicidad Clásicas 70 y 80s
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58393?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Las Imprescindibles en Felicidad Clásicas 70 y 80s
 https://18733.live.streamtheworld.com/ACIR18_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58391?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas", Las Llegadoras de Felicidad Romanticas 60 y 70s
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58391?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Las Llegadoras de Felicidad Romanticas 60 y 70s
 https://27143.live.streamtheworld.com/ACIR19_S01AAC
 
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58392?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Rock&Roll", El Rockódromo en Felicidad 50s y 60s Rockodromo, Rock&Roll y Balada
@@ -99,10 +99,10 @@ https://27143.live.streamtheworld.com/ACIR17_S01AAC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5edfac7977ca1c9302293?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Pop", Los 80s y 90s Español
 https://23023.live.streamtheworld.com/ACIR29_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/6231337bbe123875849470d7?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Amor de Dos Duetos en español
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/6231337bbe123875849470d7?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Amor de Dos Duetos en español
 https://14083.live.streamtheworld.com/ACIR02_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/62313359be123875849470d3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Romántica", Amor de mis Amores Éxitos de 3 décadas
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/62313359be123875849470d3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Amor de mis Amores Éxitos de 3 décadas
 https://27143.live.streamtheworld.com/ACIR21_S01AAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9d2606795218894aa3fc2b?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Jazz: Sax, piano, guitarra y voz", Smooth Jazz
@@ -162,19 +162,19 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/W_Radio_900_96.9_logo.jpg/220px-W_Radio_900_96.9_logo.jpg", group-title="Noticias", W Radio 900 AM y 96.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIO_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNuBWY4zLh.jpg" group-title="Romántica", Joya 93.7 FM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNuBWY4zLh.jpg" group-title="Baladas, Romántica y Pop Latino", Joya 93.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC?dist=tg&pname=TDSdk
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://wrmx00.epimg.net/especiales/foro-w/aerocorona/images/logo-w.png" group-title="Deportes", W Deportes 730 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC?csegid=10000
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KErGnp6EeB.png" group-title="Romántica", Café Romántico Radio
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KErGnp6EeB.png" group-title="Baladas, Romántica y Pop Latino", Café Romántico Radio
 https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen?refresh=1656674596617
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FTYurSV9nR.png" group-title="Mexicana", La Ranchera 106.1 FM
 https://cast.zuperdns.net/8022/stream/;stream.mp3
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SdgFaVq9P4.png" group-title="Romántica", Formula Melodica 97.9 Mhg
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SdgFaVq9P4.png" group-title="Baladas, Romántica y Pop Latino", Formula Melodica 97.9 Mhg
 https://s2.yesstreaming.net:9085/stream
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="http://cdn-profiles.tunein.com/s1171/images/logod.png?t=637908714790000000" group-title="Pop", Universal 88.1 FM
@@ -216,7 +216,7 @@ http://stream.zeno.fm/suqa16dw2ehvv
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tvndf9rvvjh5.png" group-title="Noticias", Fórmula 1120 AM
 https://sg.centrocibernetico.com/formula1120am
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PHRBngpsHK.jpg" group-title="Romántica", Radio Centro 1030 AM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PHRBngpsHK.jpg" group-title="Baladas, Romántica y Pop Latino", Radio Centro 1030 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://co.radio.net/images/broadcasts/a3/31/140849/1/c300.png" group-title="Tropical", Radio Cumbia México
@@ -258,7 +258,7 @@ http://51.79.50.36:8000/stream
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gwqkarc3xkwq.png" group-title="Instrumental", JM Radio Instrumental Relax
 https://stream.zeno.fm/nttqukp84k0uv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2pdbcunvpqwx.png" group-title="Romántica 1380 AM", Romántica 1380 AM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2pdbcunvpqwx.png" group-title="Baladas, Romántica y Pop Latino", Romántica 1380 AM
 http://s1.audiorama.mx:6582/;stream
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qFBKLmtCRk.png" group-title="Dance", Ibero 90.9 FM
