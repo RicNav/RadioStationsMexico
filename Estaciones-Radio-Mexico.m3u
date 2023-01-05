@@ -56,6 +56,64 @@ https://22823.live.streamtheworld.com/XHFAJ_FMAAC.aac
 
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab73?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Oldies", Fórmula Acústica 104.1
 https://n08.radiojar.com/3zcudxmb4k0uv
+#EXTM3U
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2017/01/WWW-Romantica-brand-170x170.jpg" group-title="Baladas, Romántica y Pop Latino", Romantica 102.1 FM
+http://sigmaradio.stream:9000/index.mp3
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2018/07/Banner-Los40-VOL-estacion.jpg" group-title="Inglés", Los 40 – 100.5 FM Pop Español y Reggaeton
+http://sigmaradio.stream:9004/index.mp3
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2016/01/radio-imagen-2.png" group-title="Grupera y Tropical", Ke Buena 95.3 FM Banda y Ranchera Cumbias
+http://sigmaradio.stream:9002/index.mp3
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5900c739-43c7-47e2-9c0d-d450246651cf?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Grupera y Tropical", La Z 103.5 FM Norteñas y Reggaeton Cumbias
+https://26273.live.streamtheworld.com/XHEM_FM.mp3
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6064bc678ad97703fa6ab7d4?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", EXA 104.9 FM Exitos
+https://26373.live.streamtheworld.com/XHEXA_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Amor 95.3 FM
+https://18243.live.streamtheworld.com/XHSHFMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Baladas, Romántica y Pop Latino", 106.5 FM 80s 90s y Mas
+https://14523.live.streamtheworld.com:443/XHDFMFMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43a62c4c516799194024d?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Grupera y Tropical" La Mejor 97.7 FM Cumbia, Mexicana
+https://22823.live.streamtheworld.com/XERCFMAAC_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://lh3.googleusercontent.com/EJrHLgcZplZ4eHNnB0r8w-pAH8fM7jUL7kf3pdxoT2wVlBQea-xZrLS6U1qHlAAvqnY0=h200" group-title="Radio hablado", Radio Formula 104.1 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw-bkp/61e1dfd2658baf082814e25d
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/XERFR_Radioformula1033fm.png" group-title="Inglés", Radio Formula 103.3 FM Pop
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw-bkp/6102ce7ef33d0b0830ec3adc
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5c06de7866648c817d8cad6a?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", iHeart Radio Pop
+https://27033.live.streamtheworld.com/ACIR31_S01AAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", Match 99.3 FM Pop
+https://25083.live.streamtheworld.com/XHPOPFMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/610315469403c396b6b0da17?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Grupera y Tropical", La Comadre 1260 AM
+https://18103.live.streamtheworld.com/XELAMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Noticias", MVS Noticias 102.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Noticias", 88.9 Noticias FM
+https://25063.live.streamtheworld.com/XHMFMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2af8558a19fc0df00598c7?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Inglés", Imagen Radio 90.5 FM Pop
+https://26363.live.streamtheworld.com/XEDAFM_SC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce72d5ee0cd6a6abec51390?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Baladas, Romántica y Pop Latino", Radio Felicidad 1180 AM
+https://14613.live.streamtheworld.com/XEFRAMAAC
+
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t39.30808-6/310958451_469278925236392_3842059014121785436_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=l0lHDQ0EjZIAX_ViLae&_nc_ht=scontent.fmex7-1.fna&oh=00_AfAFKQSWhH9qCED0G6Up7WoFU0eIyqepky8orleGs4E_3A&oe=63BA66F2" group-title="Inglés", Alfa Radio 91.3 FM Pop
+https://22823.live.streamtheworld.com/XHFAJ_FMAAC.aac
+
+#EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab73?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Oldies", Fórmula Acústica 104.1
+https://n08.radiojar.com/3zcudxmb4k0uv
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://trion.fm/wp-content/uploads/2020/07/trion-logo-header.png" group-title="Inglés", Trión 103.3 FM Pop
 https://n11.radiojar.com/4f89tufzv9duv?callLetters=XERFR-HD2&country=MX&rj-ttl=5&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Ftrion-1033-hd-cdmx-8555%2F&dist=iheart&terminalid=164&locale=es-MX&rj-tok=AAABgy7n5rkA0S-eX-5GZ9PDRQ&clientType=web&modTime=1662937701037&profileid=5963708204&triton-uid=cookie%3A453f4d38-29c1-4940-818c-eecc764ba654&host=webapp.MX&devicename=web-desktop&an-uid=312043326336659464&subscription_type=free&territory=MX&stationid=8555
@@ -90,7 +148,7 @@ https://17813.live.streamtheworld.com/ACIR34_S01AAC
 #EXTINF:-1 radio="true" ,radio 1 tvg-logo="https://i.iheart.com/v3/re/new_assets/615792d3bf7dcfa5bcc67baa?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Corridos y fusiones urbano-regional", Tumbado al 100
 https://23023.live.streamtheworld.com/ACIR46_S01AAC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58394?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Tropical", Ritmos de Lujo en Felicidad Tropical, mambo, sonora y son
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58394?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Grupera y Tropical", Ritmos de Lujo en Felicidad Tropical, mambo, sonora y son
 https://27143.live.streamtheworld.com/ACIR16_S01AAC
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://i.iheart.com/v3/re/new_assets/5cb764bf2ee23a1013a58395?ops=fit(480%2C480)%2Cresize(0%2C195)" group-title="Tríos y Boleros 50 y 60s éxitos", Tríos y Boleros en Felicidad
@@ -186,7 +244,7 @@ https://n01.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABg0la2gEAsACgxFoEdou1Z
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.radiouniversal.mx/assets/images/custom/locutores/stereorey/discotheque_stereorey.jpg" group-title="Noticias", Stereorey 100.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREY_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.buscadordepodcasts.com/wp-content/uploads/2021/05/sabrosita-directo.png" group-title="Tropical", Sabrosita 590 AM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.buscadordepodcasts.com/wp-content/uploads/2021/05/sabrosita-directo.png" group-title="Grupera y Tropical", Sabrosita 590 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC_SC?pname=TDSdk
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://ws.shoutcast.com/images/contacts/7/7800/78005701-76af-45c0-a535-ae860015bd4b/radios/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22/d82bf76c-52ea-4b5b-9c49-89cfd1d91b22.png" group-title="Rock", Rock en Español
@@ -207,10 +265,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC_SC
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.imer.mx/reactor/wp-content/uploads/sites/40/03-Reactor-para-fondo-negro.png" group-title="Pop", Reactor 105.7 FM
 https://s2.mexside.net/8002/stream
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.imer.mx/xeb/wp-content/uploads/sites/18/logo_xeb_2020_1240-300x113.png" group-title="Tropical", XEB La B Grande 1220 AM
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://www.imer.mx/xeb/wp-content/uploads/sites/18/logo_xeb_2020_1240-300x113.png" group-title="Grupera y Tropical", XEB La B Grande 1220 AM
 https://s2.mexside.net/8024/stream
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://mx.radio.net/images/broadcasts/39/65/126551/1/c300.png" group-title="Tropical", Salsa
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://mx.radio.net/images/broadcasts/39/65/126551/1/c300.png" group-title="Grupera y Tropical", Salsa
 http://stream.zeno.fm/suqa16dw2ehvv
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tvndf9rvvjh5.png" group-title="Noticias", Fórmula 1120 AM
@@ -219,10 +277,10 @@ https://sg.centrocibernetico.com/formula1120am
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PHRBngpsHK.jpg" group-title="Baladas, Romántica y Pop Latino", Radio Centro 1030 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://co.radio.net/images/broadcasts/a3/31/140849/1/c300.png" group-title="Tropical", Radio Cumbia México
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://co.radio.net/images/broadcasts/a3/31/140849/1/c300.png" group-title="Grupera y Tropical", Radio Cumbia México
 http://stream.zeno.fm/9y6n2h9v2ehvv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cwFkwKcjK9.png" group-title="Tropical", Salsa México
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cwFkwKcjK9.png" group-title="Grupera y Tropical", Salsa México
 http://colombiawebs.com.co:8106/;
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CjGUkDfNGW.jpg" group-title="Pop", Free FM Classics México
@@ -240,7 +298,7 @@ https://s2.mexside.net/8014/stream
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rn7myghq238s.png" group-title="Dance", Cadena Dance México
 https://stream.zeno.fm/zw8bzfsgqm0uv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pjvcp7kfea5m.jpeg" group-title="Grupera", Banda Grupera
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pjvcp7kfea5m.jpeg" group-title="Grupera y Tropical", Banda Grupera
 https://stream9.mexiserver.com:7090/stream
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/W9xd75uz8T.png" group-title="Clasica", Radio UNAM 96.1 FM
@@ -276,10 +334,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tvdAMVg9DD.png" group-title="Electronica", Radio Techno México
 http://stream.zeno.fm/5e1z6cew2ehvv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rff9qzc8huzc.png" group-title="Tropical", JM Radio Salsa Cumbiando
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rff9qzc8huzc.png" group-title="Grupera y Tropical", JM Radio Salsa Cumbiando
 https://stream.zeno.fm/vbps31umzk0uv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2avgnqygkgdv.png" group-title="Grupera", Pura Banda MX
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2avgnqygkgdv.png" group-title="Grupera y Tropical", Pura Banda MX
 https://stream.zeno.fm/qkrtarde8yzuv
 
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zaqut5v7srss.png" group-title="Dance", Solo Clasicos
@@ -288,7 +346,7 @@ https://server01.heplayer.com:7046/;
 #EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/G4Q37ghtvx.png" group-title="Dance", Radio Rock and Pop México
 http://stream.zeno.fm/4d34u6dz6mruv
 
-#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jwtuwjggfvfy.png" group-title="Grupera", La Radio del Ciriboy
+#EXTINF:-1 radio="true" ,radio 1  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jwtuwjggfvfy.png" group-title="Grupera y Tropical", La Radio del Ciriboy
 http://192.99.170.8:5296/;
 
 
