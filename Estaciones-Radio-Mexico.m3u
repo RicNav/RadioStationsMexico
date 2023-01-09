@@ -294,15 +294,13 @@ http://192.99.170.8:5296/;
 
 #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Mexico",A Más (480p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/Nv8SAJq.png" group-title="Mexico",A Son de Salsa (720p) [Not 24/7]
-https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40 (480p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Mexico",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Mexico",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -310,6 +308,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://45.174.77.243:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Mexico",Canal 10 Cancún (720p) [Not 24/7]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cana 10" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="Mexico",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Mexico",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mexico",Canal 15 ILCE Summa Sabres
@@ -339,8 +340,6 @@ https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap
 http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Mexico",Conecta TV (720p)
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="Mexico",CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
 
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Mexico",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
