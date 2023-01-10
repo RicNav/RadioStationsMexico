@@ -314,13 +314,10 @@ https://hls.youtb.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal28.mx" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Mexico",Canal 28 (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Mexico",Canal 44 Ciudad Juárez (720p) [Geo-blocked]
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mexico",Canal Catorce
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXmFNoXEpmk60RZ3MbJpR3u8oJG-Y4j3J4IEd1Z5SPw&s" group-title="Mexico",Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Mexico",Canal Iberoamericano
-https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Mexico",Capital 21 (720p) [Not 24/7]
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
