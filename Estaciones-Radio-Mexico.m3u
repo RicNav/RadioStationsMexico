@@ -432,6 +432,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="España",7 Noticias (1080p)
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
+#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-logo="https://i.imgur.com/skXiSaf.png" group-title="España",101 Tele Antequera (1080p)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Ingles",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 
@@ -468,13 +471,8 @@ https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music (720p)
 https://30a-tv.com/music.m3u8
 
-#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p)
-https://30a-tv.com/sidewalks.m3u8
-
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV (480p) [Geo-blocked]
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-logo="https://i.imgur.com/skXiSaf.png" group-title="Music",101 Tele Antequera (1080p)
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-
-
+#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
