@@ -304,17 +304,12 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Mexico",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico",Canal 5 (480p)
-http://45.174.77.243:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Mexico",Canal 10 Cancún (720p) [Not 24/7]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cana 10" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="Mexico",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?checkedby:dailyfreeiptvlist.com
 
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Mexico",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mexico",Canal 15 ILCE Summa Sabres
-https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="Mexico",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal28.mx" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Mexico",Canal 28 (720p) [Not 24/7]
